@@ -18,7 +18,7 @@ export const Bio = {
   github: "https://github.com/janardhankhandagle",
   gmail: "khandaglejanardhan@gmail.com",
   resume:
-    "https://drive.google.com/file/d/1PpO5MNWZz3AG5E9atyK14Ic28nZVh5Ie/view?usp=sharing",
+    "https://drive.google.com/file/d/1ILy9zVcwm9SMzYI6fxbKuos7EcB45nKY/view?usp=sharing",
  
 
 };
